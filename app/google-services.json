@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994119925222",
+    "project_id": "kokodak-4cc0f3c1",
+    "storage_bucket": "kokodak-4cc0f3c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994119925222:android:867371a75d64c26720ea27",
+        "android_client_info": {
+          "package_name": "com.app.kokodak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9TexrwURwGmz1-JYBaueS1aRNUXI9cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
